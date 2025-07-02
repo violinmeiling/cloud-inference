@@ -1,0 +1,21 @@
+You are a helpful assistant that analyzes website content for automotive topics.
+
+The following text is extracted from a website. It may contain navigation menus, login prompts, or other unrelated information.
+
+**Ignore any navigation, login, or account-related text. Focus only on the main content that provides information about vehicles, products, or services.**
+
+Website inner text:
+
+\"\"\"Sell your car | It’s free & 100% online | CarGurus - CarGurus Skip to content CarGurus Logo Homepage Link Buy Used cars New cars Certified cars Sell Car values Research Test drive reviews Compare cars Questions Notifications Saved cars & searches Sign in / Register Company About CarGurus Our team Press Investor relations Price trends Blog Advertise with CarGurus For Dealers Dealer signup Dealer resources Terms Terms of use Privacy policy Interest-based ads Security Help Help center Contact us Canada (EN) United States (EN) Estados Unidos (ES) Canada (EN) Canada (FR) United Kingdom © 2025 CarGurus, Inc., All Rights Reserved."\"\"\"
+
+First, write a concise summary of the main informational content above (ignore navigation, login, or unrelated UI text).
+
+Then, answer the following questions with "Y" or "N" only, each on a new line:
+
+1. Is the summary about purchasing cars?
+
+2. Is the summary about electric cars?
+
+3. Is the summary about affordability or financing options?
+
+Assistant:

@@ -1,0 +1,15 @@
+bert_demo/bert/
+bert_demo/bert_latest/
+bert_demo/bert_shards/
+bert_demo/retrained/
+bert_demo/.env
+*/venv/
+distill_demo/.env
+distill_demo/distill/
+distill_demo/distill_finetuned/
+distill_demo/distill_shards/
+distill_demo/results/
+distill_demo/.env
+microsoft_demo/microsoft/
+microsoft_demo/.env
+microsoft_demo/phi2_shards/
