@@ -46,7 +46,7 @@ else:
     norm = None
 
 # === UTILS ===
-def serialize_tensor(tensor):
+def serialize_tensor(tnsor):
     buf = io.BytesIO()
     torch.save(tensor, buf)
     buf.seek(0)
